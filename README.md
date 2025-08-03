@@ -13,7 +13,7 @@
 - 🛡️ Developed **Kids Safety Band** – child tracking and protection wearable
 - 🧠 Tamil Q&A App – OCR + Gen AI powered chatbot answering schoolbook questions in Tamil
 - 💊 **Automatic Drug Dispenser** – Published as a Scopus-indexed book chapter
-- 🔄 Published 2 Python libraries: [`certify-gui`](https://pypi.org/project/certify-gui/), `DocumentationOB`
+- 🔄 Published 2 Python libraries: [`certify-gui`](https://pypi.org/project/certifyGUI/), `DocumentationOB`
 - 📱 Multiple full-stack mobile/web apps with meaningful impact
 - 🛠️ 3 patents applied, 1 rejected, 2 under review
 - 🌍 20+ real-world projects
