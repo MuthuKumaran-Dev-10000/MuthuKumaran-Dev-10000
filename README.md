@@ -61,7 +61,7 @@
 
 ## 📫 Contact
 
-- 📧 Email: muthukumarans@student.tce.edu
+- 📧 Email: muthukumarandeveloper@gmail.com
 - 🔗 Portfolio: *Coming Soon*
 - 💬 Ping me for collaboration or open source work!
 
