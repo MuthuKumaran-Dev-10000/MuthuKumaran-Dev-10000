@@ -1,75 +1,145 @@
+# Muthukumaran S
 
-# 👨‍💻 Muthukumaran S — Developer | Innovator | Tech Explorer
+### Software Engineer | Builder | Systems Enthusiast
 
-🚀 Welcome to my GitHub profile! I’m a final year CSE student at TCE Madurai, passionate about building real-world solutions with **AI**, **IoT**, **Full-Stack Development**, and **Embedded Systems**.
+I am a Computer Science Engineering graduate interested in building software that is useful, scalable, and technically interesting.
 
----
+My work spans production software, backend systems, programming languages, developer tools, and AI-oriented systems. I enjoy taking ideas from first principles and turning them into working systems.
 
-## 🧠 About Me
-
-- 💡 Inventor of **Zeon** – a compact, compiled programming language for modern development
-- 🌾 Creator of **FarmFarAway** – an AIoT farming system with mobile app + sensor integration (Play Store)
-- 🧠 Built **Mindit** – mental wellness app for daily emotional health check-ins
-- 🛡️ Developed **Kids Safety Band** – child tracking and protection wearable
-- 🧠 Tamil Q&A App – OCR + Gen AI powered chatbot answering schoolbook questions in Tamil
-- 💊 **Automatic Drug Dispenser** – Published as a Scopus-indexed book chapter
-- 🔄 Published 2 Python libraries: [`certify-gui`](https://pypi.org/project/certifyGUI/), `DocumentationOB`
-- 📱 Multiple full-stack mobile/web apps with meaningful impact
-- 🛠️ 3 patents applied, 1 rejected, 2 under review
-- 🌍 20+ real-world projects
+I am particularly interested in the intersection of **software engineering, systems, and AI**.
 
 ---
 
-## 🧰 Tech Stack
+## What I Build
 
-**Languages:**  
-`Java` `Python` `C` `C++` `Dart` `JavaScript` `Zeon`  
+### Data Collection Software
 
-**Frameworks & Tools:**  
-`Flutter` `React` `Spring Boot` `Node.js` `Firebase` `Docker` `OpenSearch`  
+I have built and contributed to production systems used in real-world environments, including **VAPLI**, a 42,000+ LOC multi-tenant industrial maintenance platform.
 
-**Embedded/IoT:**  
-`ESP32` `Raspberry Pi` `LoRa` `Sensors` `PWM/Servo/Motor Drivers`
+The platform includes configurable inspection workflows, RBAC, tenant-level data isolation, automated calculations, reporting, and proactive alerts.
 
-**Database & Cloud:**  
-`SQLite` `MySQL` `Firebase` `Google Cloud (Student Developer Pack)`
+One of the systems I developed reduced a workflow from **15+ hours per week to approximately 30 minutes**, turning a largely manual process into an automated workflow.
 
----
+I enjoy building software where engineering decisions translate into measurable improvements.
 
-## 📦 Highlight Projects
+### Programming Language
 
-| Project | Description |
-|--------|-------------|
-| 🌐 **Zeon Language** | A powerful compiled language with Java/Python embedding |
-| 🌾 **FarmFarAway** | AIoT smart farming solution + Android app |
-| 💬 **Tamil AI Bot** | PDF-based QA chatbot with OCR + transformer |
-| 🧠 **Mindit** | Mental wellness journaling app |
-| 🧒 **Kids Safety Band** | Wearable for real-time location & alerts |
-| 💊 **Drug Dispenser** | Automates medicine delivery — research published |
+I have always been interested in understanding software below the application layer.
 
----
+That curiosity led to **Zeon**, an open-source programming language implemented entirely in Core Java.
 
-## 🏆 Achievements
+Zeon includes an execution pipeline, file handling, and interoperability with Java and Python, with more than **8,000 lines of source code**.
 
-- 🧪 2 Python libraries published
-- 📕 Scopus-indexed research chapter
-- 🧠 Conducted AI-based college events
-- 🧑‍💻 3 internships in Full Stack, IoT, and ML
-- 🛡️ 3 patent filings
+Building a programming language gave me an opportunity to explore how source code becomes executable behavior and how language design translates into implementation.
+
+### Efficient Data Representation
+
+**COIL (Compact Object Input Language)** explores a different question:
+
+How can structured information be represented more efficiently for modern AI systems?
+
+COIL is a semantic data representation system designed for JSON-heavy LLM inputs, achieving **up to 70% token reduction while maintaining lossless decoding**.
+
+The project includes both Python and NPM libraries for integration with existing applications.
 
 ---
 
-## 📫 Contact
+## Selected Work
 
-- 📧 Email: muthukumarandeveloper@gmail.com
-- 🔗 Portfolio: *Coming Soon*
-- 💬 Ping me for collaboration or open source work!
+### VAPLI
+**Enterprise Maintenance & Inspection Platform**
+
+- 42,000+ LOC production system
+- Multi-tenant architecture
+- RBAC and tenant-level data isolation
+- Configurable inspection workflows
+- Automated validation and calculations
+- Reporting, trend analysis, and alerts
+- Significant reduction in manual reporting effort
+
+### COIL
+**Compact Object Input Language**
+
+- Semantic data representation
+- Up to 70% token reduction
+- Lossless decoding
+- Python library
+- NPM library
+- Designed for LLM-oriented data workflows
+
+### Zeon
+**Programming Language**
+
+- 8,000+ LOC
+- Implemented in Core Java
+- Execution pipeline
+- File handling
+- Java interoperability
+- Python interoperability
+- Open source
+
+### Automatic Drug Dispenser
+**IoT-enabled Medication Dispensing System**
+
+- Flutter and Firebase
+- QR-based authentication
+- Deployed at TCE
+- Approximately 50% reduction in patient queue length
+- Published as a Scopus-indexed book chapter
 
 ---
 
-> **"Engineering is not just solving problems — it’s about solving the right problems creatively."**
+## Technology
+
+**Languages**
+
+`Java` `Python` `JavaScript` `Dart` `SQL`
+
+**Backend & Application Development**
+
+`Spring Boot` `Node.js` `REST APIs` `Flutter`
+
+**Data & Infrastructure**
+
+`MySQL` `Cassandra` `Elasticsearch` `Firebase` `Docker`
+
+**Engineering**
+
+`Distributed Systems` `Microservices` `Multi-Tenant Architecture` `RBAC` `CI/CD`
 
 ---
 
-🎯 *Let’s build something amazing together!*
+## Areas of Interest
 
+- Backend Engineering
+- Distributed Systems
+- Software Architecture
+- AI Infrastructure
+- Developer Tools
+- Programming Languages
+- Automation
+- Performance Engineering
+
+---
+
+## Engineering Philosophy
+
+**Build to understand.**
+
+**Measure instead of assuming.**
+
+**Start with the problem, then design the system.**
+
+**Go deeper when the abstraction becomes interesting.**
+
+I enjoy exploring ideas that sit at the boundaries between software, systems, and emerging technology — and turning those ideas into something that works.
+
+---
+
+## Connect
+
+**LinkedIn:** https://www.linkedin.com/in/muthukumaransdeveloper/  
+**GitHub:** https://github.com/MuthuKumaran-Dev-10000  
+**Email:** muthukumarandeveloper@gmail.com
+
+> **Curiosity starts the idea. Engineering makes it real.**
